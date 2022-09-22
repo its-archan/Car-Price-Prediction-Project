@@ -24,5 +24,5 @@ This project requires **Python 3.9** and the following Python libraries installe
 
 ### Dataset
 
-1. [Download the dataset](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip). This is the car.csv dataset.
-2. Follow the instructions in the `Traffic_Signs_Recognition.ipynb` notebook.
+1. [Download the dataset](https://github.com/its-archan/Car-Price-Prediction-Project/blob/main/cars.csv). This is the car.csv dataset.
+2. Follow the instructions in the `Car Price Prediction.ipynb` notebook.
